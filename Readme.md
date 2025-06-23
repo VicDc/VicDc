@@ -6,10 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-viciodicara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viciodicara/)](https://www.linkedin.com/in/viciodicara/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VicDc" alt="VicDc" /> </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
 
-## :man_technologist: Who am I?
 <div style="text-align: right">There are 10 types of people in the world: those who understand binary and those who don't...</div>
 
 ## :computer: My Tech Stack
@@ -43,6 +40,7 @@
   <img src="https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autocad&logoColor=white" alt="AutoCAD"/>
 </p>
 
+## :man_technologist: Who am I?
 
 ```python
 class WhoAmI:
