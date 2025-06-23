@@ -21,7 +21,7 @@
 ### AI & Data Science
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium,pandas,numpy,matplotlib,anaconda,jupyter" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium,pandas,numpy,matplotlib,anaconda,jupyter,huggingface" />
   </a>
 </p>
 
