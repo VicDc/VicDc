@@ -2,7 +2,7 @@
 
 # Welcome to my corner of the digital world...
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right' width="350px"/>
+<img src='--https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right' width="350px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-viciodicara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viciodicara/)](https://www.linkedin.com/in/viciodicara/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VicDc" alt="VicDc" /> </p>
