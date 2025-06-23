@@ -44,7 +44,7 @@
 
 ```python
 class WhoAmI:
-    user = 'Vicio Di Cara'
+    user = 'Vicio'
     birth_fact = 'The first internet ping in Italy coincides with my birth'
     
     currently_working_on = [
