@@ -11,12 +11,34 @@
 
 ## :computer: My Tech Stack
 
-Here are the technologies I love to use to build innovative solutions.
+### Languages & Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn,opencv,selenium,pandas,numpy,matplotlib,git,github,docker,linux,aws,gcp,raspberrypi,vscode,figma,canva&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,mysql" />
   </a>
 </p>
+
+### AI & Data Science
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium,pandas,numpy,matplotlib" />
+  </a>
+</p>
+
+### Cloud & DevOps
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+  </a>
+</p>
+
+### Design & Development Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai,pr,ae,xd,vscode,raspberrypi" />
+  </a>
+</p>
+
 
 ## :man_technologist: Who am I?
 
