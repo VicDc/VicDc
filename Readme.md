@@ -14,7 +14,7 @@
 ### Languages & Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql," />
+    <img src="https://skillicons.dev/icons?i=python,mysql" />
   </a>
 </p>
 
@@ -37,6 +37,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai,pr,ae,xd,latex,vscode,raspberrypi" />
   </a>
+  <img src="https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autocad&logoColor=white" alt="AutoCAD"/>
 </p>
 
 
