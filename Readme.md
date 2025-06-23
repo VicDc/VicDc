@@ -14,28 +14,28 @@
 ### Languages & Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,mysql," />
   </a>
 </p>
 
 ### AI & Data Science
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium,pandas,numpy,matplotlib" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium,pandas,numpy,matplotlib,anaconda,jupyter" />
   </a>
 </p>
 
 ### Cloud & DevOps
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,linux,git,github" />
   </a>
 </p>
 
 ### Design & Development Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai,pr,ae,xd,vscode,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai,pr,ae,xd,latex,vscode,raspberrypi" />
   </a>
 </p>
 
