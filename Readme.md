@@ -2,7 +2,7 @@
 
 # Welcome to my corner of the digital world...
 
-<img src='**[https://github.com/VicDc/VicDc/blob/main/img/sea%20heart.png]**' alt='seaHeart' align='right' width="350px"/>
+<img src="https://raw.githubusercontent.com/VicDc/VicDc/main/img/sea-sunset.gif" alt="Sea Sunset GIF" align='right' width="350px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-viciodicara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viciodicara/)](https://www.linkedin.com/in/viciodicara/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VicDc" alt="VicDc" /> </p>
@@ -44,7 +44,7 @@
 
 ```python
 class WhoAmI:
-    user = 'Vicio'
+    user = 'Vicio Di Cara'
     birth_fact = 'The first internet ping in Italy coincides with my birth'
     
     currently_working_on = [
