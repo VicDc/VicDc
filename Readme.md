@@ -1,7 +1,9 @@
 ## Hey, [I'm Vicio!](https://www.linkedin.com/in/viciodicara/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 # Remember This: Try.
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<p   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=VicDc&show_icons=true&count_private=true&theme=aura" width="350"></a>
+</p>
+
 <img src="https://raw.githubusercontent.com/VicDc/VicDc/main/img/sea-sunset.gif" alt="Sea Sunset GIF" align='right' width="350px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-viciodicara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viciodicara/)](https://www.linkedin.com/in/viciodicara/)
