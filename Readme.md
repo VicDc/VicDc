@@ -52,8 +52,9 @@ class WhoAmI:
     
     currently_working_on = [
         "Italian Sign Language (LIS) Interpreter",
-        "Drug Repositioning Research",
-        "LLM for Mental Health",
+"malaria AI",
+        ✅️"Drug Repositioning Research",
+        ✅️"LLM for Mental Health",
         "Developing an AI Agent to help others"
     ]
     
