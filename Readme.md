@@ -50,7 +50,7 @@ class WhoAmI:
     birth_fact = 'The first internet ping in Italy coincides with my birth'
     
     currently_working_on = [
-        "Italian Sign Language (LIS) Interpreter",
+        "Italian Sign Language (Lis)AI Interpreter",
         "malaria AI",
         ✅️"Drug Repositioning Research",
         ✅️"LLM for Mental Health",
