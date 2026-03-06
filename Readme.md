@@ -105,30 +105,72 @@ A map of the deep learning architectures and ML systems I've applied across real
 ### Languages & Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite" />
   </a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
 
 ### AI & Data Science
 <p>
+  <!-- Frameworks supported by skillicons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium,pandas,numpy,matplotlib,anaconda,jupyter,huggingface" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
   </a>
+  <!-- Libraries via shields.io -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="Ultralytics YOLO"/>
+  <img src="https://img.shields.io/badge/Unsloth-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white" alt="Unsloth"/>
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
+</p>
+
+### LLMs & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4"/>
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3"/>
+  <img src="https://img.shields.io/badge/Qwen3-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Qwen3"/>
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral"/>
+  <img src="https://img.shields.io/badge/Gemma-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Gemma"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/LM_Studio-6C5CE7?style=for-the-badge&logo=lmstudio&logoColor=white" alt="LM Studio"/>
+  <img src="https://img.shields.io/badge/vLLM-FF4B4B?style=for-the-badge&logo=lightning&logoColor=white" alt="vLLM"/>
+</p>
+
+### Backend & Databases
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis" />
+  </a>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </p>
 
 ### Cloud & DevOps
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,linux,git,github" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
   </a>
+  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/>
+  <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorBoard"/>
+  <img src="https://img.shields.io/badge/CVAT-0D6EFD?style=for-the-badge&logo=opencv&logoColor=white" alt="CVAT"/>
 </p>
 
 ### Design & Development Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai,pr,ae,xd,latex,vscode,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,latex,vscode,raspberrypi" />
   </a>
-  <img src="https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autocad&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
 </p>
 
 ---
